@@ -1,0 +1,8 @@
+xai-churn-predictor/
+│
+├── data/
+│   └── churn.csv
+├── explain_model.py
+├── model_train.py
+├── visualize_explanations.py
+└── requirements.txt

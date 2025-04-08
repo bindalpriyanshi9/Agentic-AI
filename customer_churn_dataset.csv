@@ -1,0 +1,11 @@
+Customer_ID,Age,Gender,Monthly_Spending,Subscription_Length,Support_Interactions,Churn
+1,56,0,275,2,3,0
+2,69,0,381,8,1,0
+3,46,1,219,5,2,0
+4,32,1,58,2,2,0
+5,60,1,89,4,4,0
+6,25,1,74,9,4,0
+7,38,1,310,4,0,0
+8,56,0,444,4,0,0
+9,36,1,492,2,0,0
+
